@@ -9,7 +9,7 @@ Para usar o programa siga os passos;
   ```
   Para Instalar o Python vá até, https://python.org/download/
 
-  ```
+```
 2: Instale as Blibliotecas
 ```
 
@@ -17,14 +17,16 @@ Para usar o programa siga os passos;
 
   ```
   pip install speech_recognition
+  
   ```
   E depois instale o ``webbrowser``
 
   ```
   pip install webbrowser
   ```
+  
   E por último o ``pyaduio``
-
+  
   ```
   pip install pyaudio
   ```
