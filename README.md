@@ -9,22 +9,36 @@ Para usar o programa siga os passos;
 ```
 Para Instalar o Python vá até, https://python.org/download/
 
-```sh
+```
 2: Instale as Blibliotecas
 ```
 
 Instale a blibioteca ``speech_recognition``:
 
-```sh
+```
 pip install speech_recognition
 ```
 E depois instale o ``webbrowser``
 
-```sh
+```
 pip install webbrowser
 ```
 E por último o ``pyaduio``
 
-```sh
+```
 pip install pyaudio
+```
+
+```
+2: Inicie o programa
+```
+
+Para iniciar o programa utilize o comando no terminal
+
+```
+py reconhecimento-de-voz.py
+```
+ou
+```
+python reconhecimento-de-voz.py
 ```
