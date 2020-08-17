@@ -8,7 +8,7 @@ Para usar o programa siga os passos;
 1: Instale o Python
 ```
 Para Instalar o Python vá até, https://python.org/download/
-```
+
 ```sh
 2: Instale as Blibliotecas
 ```
