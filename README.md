@@ -4,7 +4,7 @@ Pesquisa no navegador Google Chrome usando voz, um programa simples mas que gost
 
 Para usar o programa siga os passos;
 
-```sh
+```
 1: Instale o Python
 ```
 Para Instalar o Python vá até, https://python.org/download/
