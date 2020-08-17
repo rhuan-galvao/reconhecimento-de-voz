@@ -4,8 +4,8 @@ Pesquisa no navegador Google Chrome usando voz, um programa simples mas que gost
 
 Para usar o programa siga os passos;
 
-```
 1: Instale o Python
+
   ```
   Para Instalar o Python vá até, https://python.org/download/
 
@@ -29,10 +29,9 @@ Para usar o programa siga os passos;
   pip install pyaudio
   ```
 
-```
 3: Inicie o programa
-```
 
+  ```
   Para iniciar o programa utilize o comando no terminal
 
   ```
